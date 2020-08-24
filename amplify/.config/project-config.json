@@ -1,12 +1,12 @@
 {
-    "projectName": "securetest01",
+    "projectName": "NewProfileProject01",
     "version": "3.0",
     "frontend": "javascript",
     "javascript": {
         "framework": "angular",
         "config": {
             "SourceDir": "src",
-            "DistributionDir": "dist/securetest01",
+            "DistributionDir": "dist/NewProfileProject01",
             "BuildCommand": "npm.cmd run-script build",
             "StartCommand": "ng serve"
         }
